@@ -38,7 +38,7 @@ const studentsarr = [
 ]
 const phsubjectsarr=["مقدمة","بناء المترجمات", "مقدمة فى امان الحاسبات", "اساسيات البيانات الكبيرة", "تعلم الالة", "مقرر اختيارى (2)","نظم التشغيل", "التنقيب على البيانات", "تحليل وتصميم الخوارزميات", "هندسة البرمجيات", "بناء الحاسب", "نظم قواعد البيانات","الهياكل المنفصلة", "البرمجة الشيئية", "أسس نظم المعلومات", "رياضيات 3", "أخلاقيات المهنة", "معالجة الإشاراة الرقمية","لغة انجليزية (1)", "الكترونيات", "برمجة (1)", "رياضيات (1)", "فيزياء (1)", "مقدمة علوم الحاسب", "القضايا المجتمعية"]
 
-let logedtstnation = localStorage.getItem("username").trim();
+let logedtstnation = "30501072300592";//localStorage.getItem("username").trim();
 //const logedtstnation= document.getElementById("name-form02-o");
 // const queryString = window.location.search;
 // const urlParams = new URLSearchParams(queryString);
